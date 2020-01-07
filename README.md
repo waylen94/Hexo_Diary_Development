@@ -113,7 +113,7 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: 
   LINK_NAME: URL
 ```
 
